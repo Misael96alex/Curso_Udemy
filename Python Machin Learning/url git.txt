@@ -1,0 +1,1 @@
+https://github.com/joanby/python-ml-course/blob/master/datasets/titanic/titanic3.csv
