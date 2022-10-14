@@ -8,3 +8,9 @@ Canales de Discord
 https://discord.com/invite/Gq5NX6a
 https://discord.com/invite/DcttKr8
 https://discord.com/invite/Vsvk7dK
+
+descargar R 3.6.3
+https://cran.r-project.org/bin/windows/base/old/3.6.3/
+
+repositorio git
+https://github.com/joanby/r-basic
