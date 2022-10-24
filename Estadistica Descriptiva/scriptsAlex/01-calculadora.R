@@ -60,6 +60,16 @@ asin(0.8660254*pi/180)
 x=seq(0,2*pi,0.1)
 plot(x,sin(x),type = "l", col="blue", lwd=3, xlab=expression(x), ylab="")
 
+# aproximaciones
+print(sqrt(2),10)
+print(sqrt(2),4)
+round(sqrt(2),3)
+floor(sqrt(2))
+ceiling(sqrt(2))
+trunc(sqrt(2))
+sqrt(2)^2
+(sqrt(2)^2)-2
+2^50
+print(2^50, 5)
 
-
-
+log(x = 4,base = 4)
